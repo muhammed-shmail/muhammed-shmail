@@ -186,8 +186,6 @@ class MuhammedShamil:
 | Degree | Institution | Year | Notes |
 |--------|-------------|------|-------|
 | B.Tech – Information Technology | MEA Engineering College, Perinthalmanna | 2022 – 2026 | Completed |
-| 8-Year Islamic Studies Program | Shuhada Islamic College, Puthanagadi | Completed | Affiliated with Jamia Nooriya Arabia |
-
 </div>
 
 ## 🌱 Currently Learning
