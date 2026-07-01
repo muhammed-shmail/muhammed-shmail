@@ -172,8 +172,6 @@ class MuhammedShamil:
 |---|-----------|---------|
 | 🚀 | Selected as SE Trainee | Offered an incoming Software Engineer Trainee role at Nuro7 (starting May 2026). |
 | 🧑‍🔧 | IEDC Technical Officer | Active Assistant Technical Officer at MEA College's Innovation & Entrepreneurship Development Centre since Apr 2025. |
-| 🎨 | Freelance since 2022 | Running freelance design + web development work for real businesses for 3+ years. |
-| 📖 | 8-Year Islamic Studies | Completed the full 8-year program at Shuhada Islamic College (affiliated with Jamia Nooriya Arabia). |
 | 🌐 | Trilingual | Communicates in Malayalam (native), English, and Arabic. |
 
 </div>
