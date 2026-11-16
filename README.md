@@ -28,7 +28,7 @@ class MuhammedShamil:
         self.name = "Muhammed Shamil N"
         self.location = "Malappuram, Kerala, India"
         self.degree = "B.Tech Information Technology (2022–2026)"
-        self.role = "Incoming Software Engineer Trainee @ Nuro7"
+        self.role = "Incoming Software Engineer "
 
         self.stack = ["Python", "JavaScript", "C", "Firebase", "MySQL"]
         self.builds = ["AI Solutions", "E-commerce", "Web Apps", "UI/UX"]
