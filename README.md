@@ -30,12 +30,11 @@ class MuhammedShamil:
         self.degree = "B.Tech Information Technology (2022–2026)"
         self.role = "Incoming Software Engineer "
 
-        self.stack = ["Python", "JavaScript", "C", "Firebase", "MySQL"]
+        self.stack = ["Python", "JavaScript", "C", "Firebase", "POSTRESQL"]
         self.builds = ["AI Solutions", "E-commerce", "Web Apps", "UI/UX"]
         self.currently_learning = ["Shopify Dev", "WordPress", "Prompt Engineering"]
 
         self.languages = ["Malayalam", "English", "Arabic"]
-        self.fun_fact = "8-year Islamic studies grad who also ships software"
 
     def motto(self):
         return "Build scalable products. Solve real business problems. Keep learning."
@@ -112,11 +111,11 @@ class MuhammedShamil:
 ## 💼 Work Experience
 
 <details>
-<summary><b>🚀 Software Engineer Trainee (Incoming) — Nuro7</b> · <i>Starting May 2026 · Malappuram, Kerala</i></summary>
+<summary><b>🚀 Software Engineer </b> · <i>Starting Sep 2026 · Calicuit, Kerala</i></summary>
 
 <br/>
 
-> `Software Development` `E-commerce` `AI Integration` `UI/UX Design`
+> `Software Development` `E-commerce` `AI Integration` `Web Development`
 
 - Selected for a Software Engineer Trainee role focused on software development, e-commerce solutions, AI integration, and UI/UX design.
 - Will contribute to software products, e-commerce platforms, and AI-powered business solutions.
