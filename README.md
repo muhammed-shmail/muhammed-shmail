@@ -4,7 +4,7 @@
 <!-- ====================== 2. TYPING HEADER ====================== -->
 <div align="center">
   <a href="https://github.com/muhammed-shmail">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineer+Trainee+@+Nuro7;AI+Integration+%7C+E-commerce+Developer;UI%2FUX+Designer+%26+Web+Developer;Final-year+B.Tech+IT+Student" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Software+Engineer;AI+Integration+%7C+E-commerce+Developer;UI%2FUX+Designer+%26+Web+Developer;B.Tech+IT+Graduate" alt="Typing SVG"/>
   </a>
 </div>
 
